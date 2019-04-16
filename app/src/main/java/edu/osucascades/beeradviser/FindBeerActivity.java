@@ -5,6 +5,7 @@ import android.app.Activity;
 import android.view.View;
 import android.widget.Spinner;
 import android.widget.TextView;
+
 import java.util.List;
 
 public class FindBeerActivity extends Activity {
